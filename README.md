@@ -1,4 +1,4 @@
-# React Starter Kit
+# React 18 Starter Kit
 
 This is a React starter kit that includes the following technologies and libraries:
 

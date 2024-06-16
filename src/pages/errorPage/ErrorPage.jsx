@@ -11,7 +11,7 @@ function ErrorPage() {
   };
 
   return (
-    <div>
+    <section>
       <PageTitle title="Not Found" />
       <div className="flex justify-center">
         <img src={errorImage} alt="Error Image" />
@@ -22,7 +22,7 @@ function ErrorPage() {
           Go To Home
         </button>
       </div>
-    </div>
+    </section>
   );
 }
 
