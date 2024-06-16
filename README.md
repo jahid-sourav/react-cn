@@ -1,8 +1,8 @@
-# React Starter Kit with Shadcn, React Router DOM, React Icons, Helmet Async, and Tailwind CSS
+# React Starter Kit
 
 This is a React starter kit that includes the following technologies and libraries:
 
-- **Shadcn**
+- **Shadcn UI**
 - **React Router DOM**
 - **React Icons**
 - **Helmet Async**
@@ -11,12 +11,6 @@ This is a React starter kit that includes the following technologies and librari
 ## Table of Contents
 
 - [Getting Started](#getting-started)
-- [Project Structure](#project-structure)
-- [Available Scripts](#available-scripts)
-- [Dependencies](#dependencies)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Getting Started
 
@@ -25,8 +19,7 @@ To get started with this project, follow these steps:
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/yourusername/react-starter-kit.git
-   cd react-starter-kit
+   git clone https://github.com/jahid-sourav/react-cn
    ```
 
 2. **Install dependencies:**
@@ -38,11 +31,5 @@ To get started with this project, follow these steps:
 3. **Start the development server:**
 
    ```bash
-   npm start
+   npm run dev
    ```
-
-   The application will start on `http://localhost:3000`.
-
-## Project Structure
-
-Here's an overview of the project structure:
