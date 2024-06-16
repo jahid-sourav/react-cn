@@ -8,6 +8,10 @@ This is a React starter kit that includes the following technologies and librari
 - **Helmet Async**
 - **Tailwind CSS**
 
+## Live Demo
+
+Check out the live demo [here](https://jahidreactcn.netlify.app).
+
 ## Table of Contents
 
 - [Getting Started](#getting-started)
